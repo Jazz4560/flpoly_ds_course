@@ -1,23 +1,23 @@
-## First Name Last Name
+## Jasmine Williams
 
-### Term Year 
+### SP_2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Calculus 2
 
-- Course 2
+- Intro to data science
 
-- Course 3
+- Intro to Computation and Programming
 
-- Course 4
+- Law, Public Policy, Negotiation, and Business
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Swimming
 
-- Thing 2
+- Cheerleading
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+
